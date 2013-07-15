@@ -16,15 +16,15 @@ En lo inmediato, se proponen las siguientes acciones concretas a desarrollarse e
 
 Las funcionalidades de las herramientas de software se clasifican en:
 
-## Especificar e implementar un sistema de software de gestión para los acopios de fibra de camélidos ubicados en las localidades de Cusi Cusi, El Toro, Pumahuasi, Yavi, Cangregillos y El Condor.
+Especificar e implementar un sistema de software de gestión para los acopios de fibra de camélidos ubicados en las localidades de Cusi Cusi, El Toro, Pumahuasi, Yavi, Cangregillos y El Condor.
 
 Las herramientas de Software a desarrollarse, serán especificadas y construidas sobre las bases del Software Libre, y se irán conformando en forma de módulos, de modo de introducir paulatinamente la automatizacion de los procesos de gestion.
 Las funcionalidades de las herramientas de software se clasifican en: Gestión de los Centros de Acopio, Incluyendo: Registro de recepción, clasificación, emisión de recibos, actas etc. Evolución de la producción, incluyendo: procesamiento de históricos, extracción de datos, búsquedas, generación de reportes, específicos e históricos etc. Resultados de la gestión incluyendo: Reportes online sobre la producción y progreso de los Acopios, publicación de variables de interés de los productores, etc.
 El sistema de gestión se desarrollará con la participación de la universidad, comunidades y empresas; en este sentido se prvilegiará la participación de actores locales y se capacitará a jovenes de la region de La Puna para que puedan mantenerlo en el tiempo. En el Anexo I se describe en mayor detalle el sistema de gestión
 
-## Fortalecer a la empresa NetPuna de Abra Pampa para que pueda ampliar sus servicios de comunicaciones e internet. Construir un enlace inalámbrico entre Abra Pampa y Rinconada que posibilite el acceso a comunicaciones telefónicas (voz sobre IP) y a Internet, utilizando las netbooks del programa Conectar Igualdad u otras computadoras como teléfonos. En el Anexo III se presente el anteproyecto de la red radio-enlaces.
+Fortalecer a la empresa NetPuna de Abra Pampa para que pueda ampliar sus servicios de comunicaciones e internet. Construir un enlace inalámbrico entre Abra Pampa y Rinconada que posibilite el acceso a comunicaciones telefónicas (voz sobre IP) y a Internet, utilizando las netbooks del programa Conectar Igualdad u otras computadoras como teléfonos. En el Anexo III se presente el anteproyecto de la red radio-enlaces.
 
-## Contribuir a la puesta en marcha y avance del Programa Conectar Igualdad en las Escuelas Técnicas de San Salvador y posiblemente en las escuelas rurales de Rinconada, sobre la base de la capacitación en software libre. En particular, se
+Contribuir a la puesta en marcha y avance del Programa Conectar Igualdad en las Escuelas Técnicas de San Salvador y posiblemente en las escuelas rurales de Rinconada, sobre la base de la capacitación en software libre. En particular, se
 capacitará a los docentes y estudiantes de las escuelas de San Salvador para que puedan desarrollar y mantener una central telefónica IP y transferirla a la comunidad de Rinconada. En el Anexo II se presenta la experiencia piloto en el
 marco del programa Conectar Igualdad.
 
@@ -55,6 +55,10 @@ La actividad principal , hasta el momento, ha sido la de generar las propuestas 
 actores en torno de las mismas.
 Así mismo, el INTI ha especificado los aspectos técnicos principales de los proyectos
 concretos ( ver Anexos I, II y III) y se hará cargo del gerenciamiento y dirección de los mismos.
+
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.es_AR"><img alt="Licencia Creative Commons" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/80x15.png" /></a><br />Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.es_AR">Licencia Creative Commons Atribución-CompartirIgual 3.0 Unported</a>.
 
 
 
